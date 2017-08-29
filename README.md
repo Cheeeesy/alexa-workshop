@@ -1,4 +1,6 @@
 # Alexa-Workshop
+Alexa Skill in 60 Minuten
+06.09.2017 - 17 Uhr - HAW Mediencampus - Raum 146
 
 ## Setup before the workshop
 ### Must have
