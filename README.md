@@ -1,6 +1,6 @@
-# alexa-workshop
+# Alexa-Workshop
 
-## Setup before the Workshop
+## Setup before the workshop
 ### Must have
 * Create an account on: https://developer.amazon.com
 * Create an account on: https://aws.amazon.com
