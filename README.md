@@ -9,11 +9,12 @@
 
 ### Optional
 * Bookmark https://echosim.io for testing your skill over the browser.
-* Install Reverb on your mobile phone for testing your skill on your mobile phone.
-  * Apple https://itunes.apple.com/de/app/reverb-for-amazon-alexa/id1144695621?mt=8
-  * Android https://play.google.com/store/apps/details?id=agency.rain.android.alexa&hl=de
+* Install the Reverb App on iOS, Android or macOs https://reverb.ai.
 
 ### Helpful links
+
+#### The Alexa Skills Kit SDK for Node.js
+https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs
 
 #### Additional control over how Alexa generates the speech from the text
 https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/speech-synthesis-markup-language-ssml-reference
