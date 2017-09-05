@@ -9,7 +9,7 @@
 
 ### Optional
 * Bookmark https://echosim.io for testing your skill over the browser.
-* Install the Reverb App on iOS, Android or macOS https://reverb.ai for testint your skill over the App.
+* Install the Reverb App https://reverb.ai on iOS, Android or macOS for testing your skill over the App.
 
 ### Helpful links
 
