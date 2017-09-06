@@ -10,7 +10,7 @@
 ### Optional
 * Bookmark https://echosim.io for testing your skill over the browser.
 * Install the Reverb App https://reverb.ai on iOS, Android or macOS for testing your skill over the App.
-* Install Node.js 6.10
+* Install Node.js 6.10.
 
 ### Helpful links
 
