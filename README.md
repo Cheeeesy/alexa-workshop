@@ -16,8 +16,7 @@
 #### The Alexa Skills Kit SDK for Node.js
 https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs
 
-#### Andere nützliche Links
-- https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/speech-synthesis-markup-language-ssml-reference
+#### Other Links
 - http://bit.ly/alexahighlow
 - http://bit.ly/alexa-cookbook
 - http://bit.ly/alexa-iot
@@ -25,7 +24,7 @@ https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs
 #### Additional control over how Alexa generates the speech from the text
 https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/speech-synthesis-markup-language-ssml-reference
 
-#### Beispiel Projekt
+#### Exmaple Project
 https://github.com/deadratfink/alexa-skill-chuck-norris
 - External API integration
 - I18N
