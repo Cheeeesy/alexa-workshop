@@ -10,6 +10,7 @@
 ### Optional
 * Bookmark https://echosim.io for testing your skill over the browser.
 * Install the Reverb App https://reverb.ai on iOS, Android or macOS for testing your skill over the App.
+* Install Node.js 6.10
 
 ### Helpful links
 
@@ -24,7 +25,7 @@ https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs
 #### Additional control over how Alexa generates the speech from the text
 https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/speech-synthesis-markup-language-ssml-reference
 
-#### Exmaple Project
+#### Example Project
 https://github.com/deadratfink/alexa-skill-chuck-norris
 - External API integration
 - I18N
