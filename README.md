@@ -9,11 +9,25 @@
 
 ### Optional
 * Bookmark https://echosim.io for testing your skill over the browser.
-* Install Reverb on your mobile phone for testing your skill on your mobile phone.
-  * Apple https://itunes.apple.com/de/app/reverb-for-amazon-alexa/id1144695621?mt=8
-  * Android https://play.google.com/store/apps/details?id=agency.rain.android.alexa&hl=de
+* Install the Reverb App https://reverb.ai on iOS, Android or macOS for testing your skill over the App.
+* Install Node.js 6.10.
 
 ### Helpful links
 
+#### The Alexa Skills Kit SDK for Node.js
+- https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs
+
+#### Other Links
+- http://bit.ly/alexahighlow
+- http://bit.ly/alexa-cookbook
+- http://bit.ly/alexa-iot
+- https://serverless.readme.io
+
 #### Additional control over how Alexa generates the speech from the text
-https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/speech-synthesis-markup-language-ssml-reference
+- https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/speech-synthesis-markup-language-ssml-reference
+
+#### Example Project
+- https://github.com/deadratfink/alexa-skill-chuck-norris
+    - External API integration
+    - I18N
+    - Dynamic translation
