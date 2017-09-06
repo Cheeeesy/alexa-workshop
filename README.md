@@ -29,3 +29,4 @@ https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/speech
 https://github.com/deadratfink/alexa-skill-chuck-norris
 - External API integration
 - I18N
+- Dynamic translation
