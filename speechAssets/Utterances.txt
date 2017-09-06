@@ -1,0 +1,4 @@
+MoinIntent für morgens
+MahlzeitIntent für mittags
+AbendIntent für abends
+AMAZON.StopIntent das reicht
